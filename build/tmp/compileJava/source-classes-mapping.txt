@@ -1,0 +1,12 @@
+com/yate/rabbitmq/config/MessagingConfig.java
+ com.yate.rabbitmq.config.MessagingConfig
+com/yate/rabbitmq/SprintbootRabbitmqApplication.java
+ com.yate.rabbitmq.SprintbootRabbitmqApplication
+com/yate/rabbitmq/dto/Order.java
+ com.yate.rabbitmq.dto.Order
+com/yate/rabbitmq/dto/OrderStatus.java
+ com.yate.rabbitmq.dto.OrderStatus
+com/yate/rabbitmq/publisher/OrderPublisher.java
+ com.yate.rabbitmq.publisher.OrderPublisher
+com/yate/rabbitmq/consumer/User.java
+ com.yate.rabbitmq.consumer.User
